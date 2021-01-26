@@ -8,6 +8,7 @@ CSS Grid, es responsivo, utiliza Javascript, sintáxis estándar HTML5, CSS3 y v
 
 Puedes verla en:
 [Finz en WebHost](http://finzwebsite.000webhostapp.com/)
+[Finz en Github](https://alejandroayalamx.github.io/Finz/)
 
 O descargar el código en:
 [Ver repositorio de Github](https://github.com/alejandroayalamx/Finz)
